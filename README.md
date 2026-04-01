@@ -1,0 +1,2 @@
+# Numerical-Simulations-of-Wave-Propagation-in-Solid-Materials
+This project is about simulating the wave propogation inside of a concrete wall. The project takes inspiration from the superhero Flash, breaking a concrete wall through his use of vibration. The purpose of the project is to figure out the quantities involved in the physical interactions, and consider whether they are realistic or not. 
